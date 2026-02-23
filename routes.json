@@ -1,0 +1,57 @@
+[
+  {
+    "id": "R1",
+    "name": "Purple Line",
+    "color": "PURPLE",
+    "stops": [
+      { "stopId": "S1",  "travelTimeToNext": 2 },
+      { "stopId": "S2",  "travelTimeToNext": 2 },
+      { "stopId": "S3",  "travelTimeToNext": 2 },
+      { "stopId": "S4",  "travelTimeToNext": 2 },
+      { "stopId": "S5",  "travelTimeToNext": 2 },
+      { "stopId": "S6",  "travelTimeToNext": 2 },
+      { "stopId": "S7",  "travelTimeToNext": 2 },
+      { "stopId": "S8",  "travelTimeToNext": 2 },
+      { "stopId": "S9",  "travelTimeToNext": 2 },
+      { "stopId": "S10", "travelTimeToNext": 2 },
+      { "stopId": "S11", "travelTimeToNext": 2 },
+      { "stopId": "S12", "travelTimeToNext": 2 },
+      { "stopId": "S13", "travelTimeToNext": 2 },
+      { "stopId": "S14", "travelTimeToNext": 2 },
+      { "stopId": "S15", "travelTimeToNext": 2 },
+      { "stopId": "S16", "travelTimeToNext": 2 },
+      { "stopId": "S17", "travelTimeToNext": 2 },
+      { "stopId": "S18", "travelTimeToNext": 2 },
+      { "stopId": "S19", "travelTimeToNext": 2 },
+      { "stopId": "S20", "travelTimeToNext": 0 }
+    ]
+  },
+  {
+    "id": "R2",
+    "name": "Green Line",
+    "color": "GREEN",
+    "stops": [
+      { "stopId": "S21", "travelTimeToNext": 2 },
+      { "stopId": "S22", "travelTimeToNext": 2 },
+      { "stopId": "S23", "travelTimeToNext": 2 },
+      { "stopId": "S24", "travelTimeToNext": 2 },
+      { "stopId": "S25", "travelTimeToNext": 2 },
+      { "stopId": "S26", "travelTimeToNext": 2 },
+      { "stopId": "S27", "travelTimeToNext": 2 },
+      { "stopId": "S28", "travelTimeToNext": 2 },
+      { "stopId": "S29", "travelTimeToNext": 2 },
+      { "stopId": "S30", "travelTimeToNext": 2 },
+      { "stopId": "S31", "travelTimeToNext": 2 },
+      { "stopId": "S32", "travelTimeToNext": 2 },
+
+      { "stopId": "S10", "travelTimeToNext": 2 },  
+
+      { "stopId": "S33", "travelTimeToNext": 2 },
+      { "stopId": "S34", "travelTimeToNext": 2 },
+      { "stopId": "S35", "travelTimeToNext": 2 },
+      { "stopId": "S36", "travelTimeToNext": 2 },
+      { "stopId": "S37", "travelTimeToNext": 2 },
+      { "stopId": "S38", "travelTimeToNext": 0 }
+    ]
+  }
+]

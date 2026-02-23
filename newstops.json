@@ -1,0 +1,378 @@
+[
+  {
+    "id": "R1",
+    "name": "Red Line",
+    "color": "RED",
+    "stops": [
+      { "stopId": "S101", "travelTimeToNext": 2 },
+      { "stopId": "S102", "travelTimeToNext": 2 },
+      { "stopId": "S103", "travelTimeToNext": 2 },
+      { "stopId": "S104", "travelTimeToNext": 2 },
+      { "stopId": "S105", "travelTimeToNext": 2 },
+      { "stopId": "S106", "travelTimeToNext": 2 },
+      { "stopId": "S107", "travelTimeToNext": 2 },
+      { "stopId": "S108", "travelTimeToNext": 2 },
+      { "stopId": "S109", "travelTimeToNext": 2 },
+      { "stopId": "S110", "travelTimeToNext": 2 },
+      { "stopId": "S111", "travelTimeToNext": 2 },
+      { "stopId": "S112", "travelTimeToNext": 2 },
+      { "stopId": "S113", "travelTimeToNext": 2 },
+      { "stopId": "S114", "travelTimeToNext": 2 },
+      { "stopId": "S115", "travelTimeToNext": 2 },
+      { "stopId": "S116", "travelTimeToNext": 2 },
+      { "stopId": "S117", "travelTimeToNext": 2 },
+      { "stopId": "S118", "travelTimeToNext": 2 },
+      { "stopId": "S119", "travelTimeToNext": 2 },
+      { "stopId": "S120", "travelTimeToNext": 2 },
+      { "stopId": "S121", "travelTimeToNext": 2 },
+      { "stopId": "S122", "travelTimeToNext": 2 },
+      { "stopId": "S123", "travelTimeToNext": 2 },
+      { "stopId": "S124", "travelTimeToNext": 2 },
+      { "stopId": "S125", "travelTimeToNext": 2 },
+      { "stopId": "S126", "travelTimeToNext": 2 },
+      { "stopId": "S127", "travelTimeToNext": 2 },
+      { "stopId": "S128", "travelTimeToNext": 2 },
+      { "stopId": "S129", "travelTimeToNext": 2 },
+      { "stopId": "S130", "travelTimeToNext": 0 }
+    ]
+  },
+  {
+    "id": "R2",
+    "name": "Yellow Line",
+    "color": "YELLOW",
+    "stops": [
+
+      { "stopId": "S201", "travelTimeToNext": 2 },
+      { "stopId": "S202", "travelTimeToNext": 2 },
+      { "stopId": "S203", "travelTimeToNext": 2 },
+      { "stopId": "S204", "travelTimeToNext": 2 },
+      { "stopId": "S205", "travelTimeToNext": 2 },
+      { "stopId": "S206", "travelTimeToNext": 2 },
+      { "stopId": "S207", "travelTimeToNext": 2 },
+      { "stopId": "S208", "travelTimeToNext": 2 },
+      { "stopId": "S209", "travelTimeToNext": 2 },
+      { "stopId": "S210", "travelTimeToNext": 2 },
+      { "stopId": "S211", "travelTimeToNext": 2 },
+
+      { "stopId": "S116", "travelTimeToNext": 2 },  
+      { "stopId": "S212", "travelTimeToNext": 2 },
+      { "stopId": "S213", "travelTimeToNext": 2 },
+      { "stopId": "S214", "travelTimeToNext": 2 },
+      { "stopId": "S215", "travelTimeToNext": 2 },
+      { "stopId": "S216", "travelTimeToNext": 2 },
+      { "stopId": "S217", "travelTimeToNext": 2 },
+      { "stopId": "S218", "travelTimeToNext": 2 },
+      { "stopId": "S219", "travelTimeToNext": 2 },
+      { "stopId": "S220", "travelTimeToNext": 2 },
+      { "stopId": "S221", "travelTimeToNext": 2 },
+      { "stopId": "S222", "travelTimeToNext": 2 },
+      { "stopId": "S223", "travelTimeToNext": 2 },
+      { "stopId": "S224", "travelTimeToNext": 2 },
+      { "stopId": "S225", "travelTimeToNext": 2 },
+      { "stopId": "S226", "travelTimeToNext": 2 },
+      { "stopId": "S227", "travelTimeToNext": 2 },
+      { "stopId": "S228", "travelTimeToNext": 2 },
+      { "stopId": "S229", "travelTimeToNext": 2 },
+      { "stopId": "S230", "travelTimeToNext": 2 },
+      { "stopId": "S231", "travelTimeToNext": 2 },
+      { "stopId": "S232", "travelTimeToNext": 2 },
+      { "stopId": "S233", "travelTimeToNext": 2 },
+      { "stopId": "S234", "travelTimeToNext": 2 },
+      { "stopId": "S235", "travelTimeToNext": 2 },
+      { "stopId": "S236", "travelTimeToNext": 0 }
+
+    ]
+  },
+  {
+    "id": "R3",
+    "name": "Blue Line",
+    "color": "BLUE",
+    "stops": [
+
+      { "stopId": "S301", "travelTimeToNext": 2 },
+      { "stopId": "S302", "travelTimeToNext": 2 },
+      { "stopId": "S303", "travelTimeToNext": 2 },
+      { "stopId": "S304", "travelTimeToNext": 2 },
+      { "stopId": "S305", "travelTimeToNext": 2 },
+      { "stopId": "S306", "travelTimeToNext": 2 },
+      { "stopId": "S307", "travelTimeToNext": 2 },
+      { "stopId": "S308", "travelTimeToNext": 2 },
+      { "stopId": "S309", "travelTimeToNext": 2 },
+      { "stopId": "S310", "travelTimeToNext": 2 },
+      { "stopId": "S311", "travelTimeToNext": 2 },
+      { "stopId": "S312", "travelTimeToNext": 2 },
+      { "stopId": "S313", "travelTimeToNext": 2 },
+
+      { "stopId": "S314", "travelTimeToNext": 2 }, 
+      { "stopId": "S315", "travelTimeToNext": 2 },
+      { "stopId": "S316", "travelTimeToNext": 2 },
+      { "stopId": "S317", "travelTimeToNext": 2 },
+      { "stopId": "S318", "travelTimeToNext": 2 },
+      { "stopId": "S319", "travelTimeToNext": 2 },
+      { "stopId": "S320", "travelTimeToNext": 2 },
+      { "stopId": "S321", "travelTimeToNext": 2 },
+      { "stopId": "S322", "travelTimeToNext": 2 },
+      { "stopId": "S323", "travelTimeToNext": 2 },
+      { "stopId": "S324", "travelTimeToNext": 2 },
+      { "stopId": "S325", "travelTimeToNext": 2 },
+      { "stopId": "S326", "travelTimeToNext": 2 },
+      { "stopId": "S327", "travelTimeToNext": 2 },
+
+      { "stopId": "S215", "travelTimeToNext": 2 }, 
+      { "stopId": "S328", "travelTimeToNext": 2 },
+      { "stopId": "S329", "travelTimeToNext": 2 },
+      { "stopId": "S330", "travelTimeToNext": 2 },
+      { "stopId": "S331", "travelTimeToNext": 2 },
+      { "stopId": "S332", "travelTimeToNext": 2 },
+
+      { "stopId": "S333", "travelTimeToNext": 2 },  
+
+      { "stopId": "S334", "travelTimeToNext": 2 },
+      { "stopId": "S335", "travelTimeToNext": 2 },
+      { "stopId": "S336", "travelTimeToNext": 2 },
+      { "stopId": "S337", "travelTimeToNext": 2 },
+      { "stopId": "S338", "travelTimeToNext": 2 },
+      { "stopId": "S339", "travelTimeToNext": 2 },
+      { "stopId": "S340", "travelTimeToNext": 2 },
+      { "stopId": "S341", "travelTimeToNext": 2 },
+      { "stopId": "S342", "travelTimeToNext": 2 },
+      { "stopId": "S343", "travelTimeToNext": 2 },
+      { "stopId": "S344", "travelTimeToNext": 2 },
+      { "stopId": "S345", "travelTimeToNext": 2 },
+      { "stopId": "S346", "travelTimeToNext": 2 },
+      { "stopId": "S347", "travelTimeToNext": 2 },
+      { "stopId": "S348", "travelTimeToNext": 0 }
+
+    ]
+  },
+  {
+    "id": "R4",
+    "name": "Green Line",
+    "color": "GREEN",
+    "stops": [
+
+      { "stopId": "S401", "travelTimeToNext": 2 },
+      { "stopId": "S402", "travelTimeToNext": 2 },
+      { "stopId": "S403", "travelTimeToNext": 2 },
+      { "stopId": "S404", "travelTimeToNext": 2 },
+      { "stopId": "S405", "travelTimeToNext": 2 },
+      { "stopId": "S406", "travelTimeToNext": 2 },
+      { "stopId": "S407", "travelTimeToNext": 2 },
+      { "stopId": "S408", "travelTimeToNext": 2 },
+      { "stopId": "S409", "travelTimeToNext": 2 },
+      { "stopId": "S410", "travelTimeToNext": 2 },
+      { "stopId": "S411", "travelTimeToNext": 2 },
+      { "stopId": "S412", "travelTimeToNext": 2 },
+      { "stopId": "S413", "travelTimeToNext": 2 },
+      { "stopId": "S414", "travelTimeToNext": 2 },
+      { "stopId": "S415", "travelTimeToNext": 2 },
+      { "stopId": "S416", "travelTimeToNext": 2 },
+      { "stopId": "S417", "travelTimeToNext": 2 },
+      { "stopId": "S418", "travelTimeToNext": 2 },
+      { "stopId": "S419", "travelTimeToNext": 2 },
+      { "stopId": "S420", "travelTimeToNext": 2 },
+      { "stopId": "S421", "travelTimeToNext": 2 },
+
+      { "stopId": "S422", "travelTimeToNext": 2 },
+
+        { "stopId": "S121", "travelTimeToNext": 0 }
+
+    ]
+  },
+  {
+    "id": "R5",
+    "name": "Violet Line",
+    "color": "VIOLET",
+    "stops": [
+
+      { "stopId": "S116", "travelTimeToNext": 2 },
+      { "stopId": "S501", "travelTimeToNext": 2 },
+      { "stopId": "S502", "travelTimeToNext": 2 },
+      { "stopId": "S503", "travelTimeToNext": 2 },
+      { "stopId": "S504", "travelTimeToNext": 2 },
+
+      { "stopId": "S329", "travelTimeToNext": 2 },
+      { "stopId": "S505", "travelTimeToNext": 2 },
+
+      { "stopId": "S217", "travelTimeToNext": 2 },
+
+      { "stopId": "S506", "travelTimeToNext": 2 },
+      { "stopId": "S507", "travelTimeToNext": 2 },
+      { "stopId": "S508", "travelTimeToNext": 2 },
+
+      { "stopId": "S509", "travelTimeToNext": 2 },
+      { "stopId": "S510", "travelTimeToNext": 2 },
+      { "stopId": "S511", "travelTimeToNext": 2 },
+      { "stopId": "S512", "travelTimeToNext": 2 },
+      { "stopId": "S513", "travelTimeToNext": 2 },
+      { "stopId": "S514", "travelTimeToNext": 2 },
+      { "stopId": "S515", "travelTimeToNext": 2 },
+      { "stopId": "S516", "travelTimeToNext": 2 },
+      { "stopId": "S517", "travelTimeToNext": 2 },
+      { "stopId": "S518", "travelTimeToNext": 2 },
+      { "stopId": "S519", "travelTimeToNext": 2 },
+      { "stopId": "S520", "travelTimeToNext": 2 },
+      { "stopId": "S521", "travelTimeToNext": 2 },
+      { "stopId": "S522", "travelTimeToNext": 2 },
+      { "stopId": "S523", "travelTimeToNext": 2 },
+      { "stopId": "S524", "travelTimeToNext": 2 },
+      { "stopId": "S525", "travelTimeToNext": 2 },
+      { "stopId": "S526", "travelTimeToNext": 2 },
+      { "stopId": "S527", "travelTimeToNext": 2 },
+      { "stopId": "S528", "travelTimeToNext": 2 },
+      { "stopId": "S529", "travelTimeToNext": 2 },
+      { "stopId": "S530", "travelTimeToNext": 2 },
+        { "stopId": "S531", "travelTimeToNext": 0 }
+
+    ]
+  },
+  {
+    "id": "R6",
+    "name": "Pink Line",
+    "color": "PINK",
+    "stops": [
+
+      { "stopId": "S601", "travelTimeToNext": 2 },
+
+      { "stopId": "S206", "travelTimeToNext": 2 },
+
+      { "stopId": "S602", "travelTimeToNext": 2 },
+
+      { "stopId": "S124", "travelTimeToNext": 2 },
+
+      { "stopId": "S603", "travelTimeToNext": 2 },
+
+      { "stopId": "S419", "travelTimeToNext": 2 },
+
+      { "stopId": "S604", "travelTimeToNext": 2 },
+
+      { "stopId": "S318", "travelTimeToNext": 2 },
+
+      { "stopId": "S605", "travelTimeToNext": 2 },
+      { "stopId": "S606", "travelTimeToNext": 2 },
+      { "stopId": "S607", "travelTimeToNext": 2 },
+      { "stopId": "S608", "travelTimeToNext": 2 },
+      { "stopId": "S609", "travelTimeToNext": 2 },
+      { "stopId": "S610", "travelTimeToNext": 2 },
+      { "stopId": "S611", "travelTimeToNext": 2 },
+
+      { "stopId": "S509", "travelTimeToNext": 2 },
+
+      { "stopId": "S612", "travelTimeToNext": 2 },
+      { "stopId": "S613", "travelTimeToNext": 2 },
+      { "stopId": "S614", "travelTimeToNext": 2 },
+
+      { "stopId": "S334", "travelTimeToNext": 2 },
+
+      { "stopId": "S615", "travelTimeToNext": 2 },
+      { "stopId": "S616", "travelTimeToNext": 2 },
+      { "stopId": "S617", "travelTimeToNext": 2 },
+      { "stopId": "S618", "travelTimeToNext": 2 },
+      { "stopId": "S619", "travelTimeToNext": 2 },
+      { "stopId": "S620", "travelTimeToNext": 2 },
+      { "stopId": "S621", "travelTimeToNext": 2 },
+      { "stopId": "S622", "travelTimeToNext": 2 },
+      { "stopId": "S623", "travelTimeToNext": 2 },
+      { "stopId": "S624", "travelTimeToNext": 2 },
+
+      { "stopId": "S113", "travelTimeToNext": 2 },
+
+      { "stopId": "S625", "travelTimeToNext": 2 },
+      { "stopId": "S626", "travelTimeToNext": 2 },
+      { "stopId": "S627", "travelTimeToNext": 2 },
+      { "stopId": "S628", "travelTimeToNext": 2 },
+      { "stopId": "S629", "travelTimeToNext": 2 },
+        { "stopId": "S630", "travelTimeToNext": 0 }
+
+    ]
+  },
+  {
+    "id": "R7",
+    "name": "Magenta Line",
+    "color": "MAGENTA",
+    "stops": [
+
+      { "stopId": "S314", "travelTimeToNext": 2 },
+
+      { "stopId": "S701", "travelTimeToNext": 2 },
+      { "stopId": "S702", "travelTimeToNext": 2 },
+      { "stopId": "S703", "travelTimeToNext": 2 },
+      { "stopId": "S704", "travelTimeToNext": 2 },
+      { "stopId": "S705", "travelTimeToNext": 2 },
+      { "stopId": "S706", "travelTimeToNext": 2 },
+      { "stopId": "S707", "travelTimeToNext": 2 },
+      { "stopId": "S708", "travelTimeToNext": 2 },
+      { "stopId": "S709", "travelTimeToNext": 2 },
+      { "stopId": "S710", "travelTimeToNext": 2 },
+
+      { "stopId": "S223", "travelTimeToNext": 2 },
+
+      { "stopId": "S711", "travelTimeToNext": 2 },
+      { "stopId": "S712", "travelTimeToNext": 2 },
+      { "stopId": "S713", "travelTimeToNext": 2 },
+      { "stopId": "S714", "travelTimeToNext": 2 },
+
+      { "stopId": "S513", "travelTimeToNext": 2 },
+
+      { "stopId": "S715", "travelTimeToNext": 2 },
+      { "stopId": "S716", "travelTimeToNext": 2 },
+      { "stopId": "S717", "travelTimeToNext": 2 },
+      { "stopId": "S718", "travelTimeToNext": 2 },
+      { "stopId": "S719", "travelTimeToNext": 2 },
+      { "stopId": "S720", "travelTimeToNext": 2 },
+      { "stopId": "S721", "travelTimeToNext": 2 },
+
+        { "stopId": "S340", "travelTimeToNext": 0 }
+
+    ]
+  },
+  {
+    "id": "R8",
+    "name": "Airport Express",
+    "color": "ORANGE",
+    "stops": [
+
+      { "stopId": "S214", "travelTimeToNext": 5 },
+
+      { "stopId": "S801", "travelTimeToNext": 5 },
+      { "stopId": "S802", "travelTimeToNext": 5 },
+      { "stopId": "S803", "travelTimeToNext": 5 },
+      { "stopId": "S804", "travelTimeToNext": 5 },
+
+      { "stopId": "S301", "travelTimeToNext": 5 },
+
+        { "stopId": "S805", "travelTimeToNext": 0 }
+
+    ]
+  },
+  {
+    "id": "R9",
+    "name": "Grey Line",
+    "color": "GREY",
+    "stops": [
+
+      { "stopId": "S309", "travelTimeToNext": 2 },
+
+      { "stopId": "S901", "travelTimeToNext": 2 },
+      { "stopId": "S902", "travelTimeToNext": 2 },
+
+      { "stopId": "S903", "travelTimeToNext": 0 }
+
+    ]
+  },
+  {
+    "id": "R3_B",
+    "name": "Blue Line - Vaishali Branch",
+    "color": "BLUE_2",
+    "stops": [
+        { "stopId": "S332", "travelTimeToNext": 2 },
+        { "stopId": "S349", "travelTimeToNext": 2 },
+        { "stopId": "S350", "travelTimeToNext": 2 },
+        { "stopId": "S351", "travelTimeToNext": 2 },
+        { "stopId": "S621", "travelTimeToNext": 2 },
+        { "stopId": "S620", "travelTimeToNext": 2 },
+        { "stopId": "S352", "travelTimeToNext": 2 },
+        { "stopId": "S353", "travelTimeToNext": 0 }
+    ]
+  }
+]
